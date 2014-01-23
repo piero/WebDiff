@@ -1,0 +1,7 @@
+{
+    "username": "foo",
+    "password": "cmFib29m",
+    "from_addr": "webdiff@example.com",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": "25"
+}
